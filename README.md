@@ -1,5 +1,11 @@
 # ns-omp-provider
 
+> [!IMPORTANT]
+> **This repository has moved to [ngosangns/ns-bridge](https://github.com/ngosangns/ns-bridge)**
+> (`packages/omp-provider`) and is archived here, read-only. Issues, pull requests and releases
+> happen there now. The npm package name is unchanged (`ns-omp-provider`), so existing
+> installs keep working.
+
 [OMP](https://omp.sh) (oh-my-pi) plugin that exposes the **Kiro**, **Devin**, and
 **Grok** providers from [`@ngosangns/ns-pi-provider`](https://github.com/ngosangns/ns-pi-provider).
 
